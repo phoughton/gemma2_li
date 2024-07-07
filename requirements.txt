@@ -1,1 +1,2 @@
 pytest
+llama-index-llms-ollama
